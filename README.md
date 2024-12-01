@@ -7,4 +7,5 @@ Created a Ecommerce sales dashboard using POWERBI
 ->visualizing sales by modes using funnel chart
 -> KPI'S 
 -> providing 2 slicers at the end for better use
-![sales dashboard](https://github.com/hussain-111/Ecommerce-sales-analysis-Dashboard-using-powerbi/assets/138776937/149bee98-2e31-4d8b-b8b5-d1bfa45979b4)
+![Screenshot 2024-12-01 195138](https://github.com/user-attachments/assets/929b0c4a-d3e0-4626-af44-aba7a8a5e1b8)
+
